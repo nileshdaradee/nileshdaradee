@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React,Spring
 - 📫 How to reach me nileshdarade36@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: sitting with the friends is the best medicine of the life
+- ⚡ Fun fact: 
 
 <!---
 nileshdaradee/nileshdaradee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
